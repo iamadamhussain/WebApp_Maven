@@ -16,7 +16,7 @@ public class CustomerController
 	{
 		ModelAndView model = new ModelAndView("page");
 
-		model.addObject("msg", "RequestMapping with Multiple my url");
+		model.addObject("msg", "RequestMapping adam with Multiple my url");
 
 		return model;
 	}
